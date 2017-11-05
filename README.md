@@ -73,12 +73,3 @@ var multiStepFormSteps = [
 ];
 ```
 
-
-
-
-      
-## Contribution
-
-* <a href="https://github.com/GOYALANSHU">@ Anshu Goyal</a> The main Author
-* <a href="">@ Girish Kumar Gupta</a> Contributor
-* <a href="https://github.com/simerdeep">@ Simerdeep Singh</a> Contributor
